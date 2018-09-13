@@ -1,4 +1,5 @@
 [submodule "regdev"]
 	path = regdev
 	url = https://github.com/paulscherrerinstitute/regdev
-	ignore = all
+	ignore = dirty
+	
